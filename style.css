@@ -1,11 +1,11 @@
 body {
-  font-family: -apple-system, system-ui, sans-serif; /* kept */
+  font-family: -apple-system, system-ui, sans-serif;
   background: linear-gradient(270deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
   background-size: 800% 800%;
   animation: bgShift 12s ease infinite;
   color: #222;
   display: flex;
-  justify-content: center; /* kept */
+  justify-content: center;
   padding: 4rem 1rem;
   overflow-x: hidden;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 main {
-  max-width: 480px; /* kept */
+  max-width: 480px;
   background: rgba(255, 255, 255, 0.6);
   backdrop-filter: blur(10px);
   padding: 2rem;
@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  margin-bottom: 0.5rem; /* kept */
+  margin-bottom: 0.5rem;
   font-size: 2.5rem;
   text-align: center;
   animation: rainbowText 3s linear infinite;
@@ -48,7 +48,7 @@ h1 {
 }
 
 ul {
-  line-height: 2.7; /* kept */
+  line-height: 2.7;
   list-style: "✨ ";
   padding-left: 1rem;
 }
